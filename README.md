@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm solai murugan 👋
 
 ### Web Developer | Aspiring Penetration Tester
 
